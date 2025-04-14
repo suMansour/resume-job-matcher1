@@ -1,0 +1,84 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "TechCorp",
+      "description": "Develop and maintain software applications using Python and JavaScript.",
+      "requirements": "3+ years Python experience, JavaScript, SQL, CS degree preferred",
+      "posted_date": "2025-04-08T18:18:46.309245"
+    },
+    {
+      "id": 2,
+      "title": "Data Scientist",
+      "company": "DataSystems",
+      "description": "Build machine learning models and analyze large datasets.",
+      "requirements": "Python, Pandas, Scikit-learn, TensorFlow, Masters in Data Science",
+      "posted_date": "2025-04-08T18:18:46.309245"
+    },
+    {
+      "id": 3,
+      "title": "DevOps Engineer",
+      "company": "CloudSolutions",
+      "description": "Implement CI/CD pipelines and manage cloud infrastructure.",
+      "requirements": "AWS, Docker, Kubernetes, Terraform, 5+ years experience",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    },
+    {
+      "id": 4,
+      "title": "Frontend Developer",
+      "company": "WebWorks",
+      "description": "Create responsive web interfaces using React and Tailwind CSS.",
+      "requirements": "React, HTML, CSS, JavaScript, UX principles",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    },
+    {
+      "id": 5,
+      "title": "Backend Developer",
+      "company": "AppForge",
+      "description": "Design and maintain REST APIs using Node.js and Express.",
+      "requirements": "Node.js, Express, MongoDB, API design, Git",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    },
+    {
+      "id": 6,
+      "title": "Product Manager",
+      "company": "InnovateX",
+      "description": "Drive product development and manage cross-functional teams.",
+      "requirements": "Agile methodologies, product lifecycle, communication skills",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    },
+    {
+      "id": 7,
+      "title": "Machine Learning Engineer",
+      "company": "AIWorks",
+      "description": "Deploy scalable ML models to production using Python and cloud services.",
+      "requirements": "ML frameworks, cloud deployment, MLOps, Python",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    },
+    {
+      "id": 8,
+      "title": "Cybersecurity Analyst",
+      "company": "SecureNet",
+      "description": "Monitor and protect systems from cybersecurity threats.",
+      "requirements": "Network security, SIEM tools, threat analysis, certifications like CISSP",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    },
+    {
+      "id": 9,
+      "title": "Mobile App Developer",
+      "company": "AppVenture",
+      "description": "Develop iOS and Android applications using Flutter.",
+      "requirements": "Flutter, Dart, mobile UI/UX design, Firebase",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    },
+    {
+      "id": 10,
+      "title": "AI Researcher",
+      "company": "DeepThink",
+      "description": "Conduct cutting-edge research in AI and publish findings.",
+      "requirements": "PhD in AI/ML, strong Python skills, research publications, PyTorch",
+      "posted_date": "2025-04-08T18:18:46.310240"
+    }
+  ]
+}
