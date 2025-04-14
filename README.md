@@ -8,8 +8,6 @@ An intelligent system that parses resumes (PDF/DOCX) and matches them with relev
 - 🔍 **Skill Extraction**: Identifies technical skills using NLP
 - 🤖 **AI Matching**: Combines semantic similarity and exact skill matching
 - 📊 **Ranking System**: Scores and ranks top 3 job matches
-- 💾 **Local Storage**: No database required - uses JSON files
-- 🛠️ **Easy Management**: Add/view jobs through CLI interface
 
 ## How It Works 🧠
 
