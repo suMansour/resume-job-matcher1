@@ -6,7 +6,7 @@ import spacy
 
 class JobMatcher:
     def __init__(self):
-        self.model = SentenceTransformer('./all-MiniLM-L6-v2')
+        self.model = SentenceTransformer('all-MiniLM-L6-v2')
         self.skill_db = self._load_skill_db()
         self.nlp = spacy.load("en_core_web_sm")
     
