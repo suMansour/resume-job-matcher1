@@ -23,8 +23,8 @@ An intelligent system that parses resumes (PDF/DOCX) and matches them with relev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/resume-job-matcher.git
-   cd resume-job-matcher
+   git clone https://github.com/yourusername/resume-job-matcher1.git
+   cd resume-job-matcher1
    ```
 2. Create and activate virtual environment:
    ```bash
