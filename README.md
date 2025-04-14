@@ -49,7 +49,7 @@ An intelligent system that parses resumes (PDF/DOCX) and matches them with relev
    Then select option 4 to load sample jobs
 
 2. **Run matching:**
-   Place resumes in data/sample_resumes/
+   Place resumes in _data/sample_resumes/_
    Run python main.py and select option 1
    Enter path to resume file when prompted
 
